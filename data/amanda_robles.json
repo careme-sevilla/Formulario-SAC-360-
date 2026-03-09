@@ -1,0 +1,38 @@
+{
+  "nombre": "Amanda Robles",
+  "respuestas": 2,
+  "tiempo": "0:45",
+  "especialidad": "Atención Primaria",
+  "cuentas": ["Valme", "Utrera", "Lebrija"],
+  "csActivos": ["410870 · Santa Ana-Dos Hermanas", "411240 · Príncipe Asturias-Utrera"],
+  "csTodos": [
+    "410300 · Palacios San Isidro",
+    "410870 · Santa Ana-Dos Hermanas",
+    "410190 · Arahal",
+    "410840 · N. Sra. Virgen Oliva-Alcalá Guadaira",
+    "410800 · Doña Mercedes-Dos Hermanas",
+    "410880 · Mairena Alcor",
+    "410370 · San Francisco Morrón",
+    "410860 · San Hilario-Dos Hermanas",
+    "410140 · Montecillos-Dos Hermanas",
+    "411130 · Campo Beatas-Alcalá Guadaira",
+    "411250 · Utrera Sur",
+    "411240 · Príncipe Asturias-Utrera",
+    "410280 · Lebrija N. Sra. Castillo",
+    "410270 · Cabezas San Juan",
+    "410200 · Cuervo"
+  ],
+  "impacto": {
+    "confianza": { "neg": 0, "neu": 25, "pos": 75 },
+    "inicio": { "neg": 0, "neu": 0, "pos": 100 },
+    "sinConfirmacion": { "neg": 50, "neu": 25, "pos": 25 }
+  },
+  "seguridad": {
+    "adaptado": { "neg": 0, "neu": 50, "pos": 50 },
+    "alineado": { "neg": 50, "neu": 25, "pos": 25 },
+    "circuito": { "neg": 0, "neu": 50, "pos": 50 }
+  },
+  "resultado": { "neg": 0, "neu": 25, "pos": 75 },
+  "barreras": ["El paciente", "Los pacientes no vienen"],
+  "necesidades": ["Ayuda de un residente", "Citarlos"]
+}
