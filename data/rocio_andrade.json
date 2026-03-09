@@ -1,0 +1,38 @@
+{
+  "nombre": "Rocío Andrade",
+  "respuestas": 1,
+  "tiempo": "0:28",
+  "especialidad": "Atención Primaria",
+  "cuentas": ["Macarena"],
+  "csActivos": ["411070 · Alcosa Mercedes Navarro-Sevilla"],
+  "csTodos": [
+    "410920 · Polígono Norte-Sevilla",
+    "410070 · Cantillana Dr. Manuel Marroco",
+    "410290 · Virgen Setefilla Lora Río",
+    "411070 · Alcosa Mercedes Navarro-Sevilla",
+    "410050 · Brenes-Villaverde Río",
+    "411040 · Guillena Dr. Correa Charro",
+    "410960 · Esperanza Macarena-Sevilla",
+    "410530 · María Fuensanta Pérez Quirós-Sevilla",
+    "411220 · Pino Montano B-Sevilla",
+    "410040 · Alcalá Río",
+    "411210 · Pino Montano A-Sevilla",
+    "410710 · San Jerónimo-Sevilla",
+    "410940 · Ronda Histórica-Sevilla",
+    "410250 · Algaba",
+    "411090 · Pedro Vallina-Sevilla"
+  ],
+  "impacto": {
+    "confianza": { "neg": 0, "neu": 50, "pos": 50 },
+    "inicio": { "neg": 100, "neu": 0, "pos": 0 },
+    "sinConfirmacion": { "neg": 0, "neu": 50, "pos": 50 }
+  },
+  "seguridad": {
+    "adaptado": { "neg": 0, "neu": 50, "pos": 50 },
+    "alineado": { "neg": 0, "neu": 0, "pos": 100 },
+    "circuito": { "neg": 0, "neu": 50, "pos": 50 }
+  },
+  "resultado": { "neg": 0, "neu": 50, "pos": 50 },
+  "barreras": ["SAS"],
+  "necesidades": ["Formación"]
+}
