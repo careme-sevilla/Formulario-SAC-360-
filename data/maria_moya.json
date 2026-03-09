@@ -1,0 +1,39 @@
+{
+  "nombre": "María Moya",
+  "respuestas": 2,
+  "tiempo": "0:34",
+  "especialidad": "Atención Primaria",
+  "cuentas": ["Virgen del Rocío", "San Juan de Dios (Aljarafe)"],
+  "csActivos": ["411110 · Coria Blas Infante-Virgen Estrella", "410420 · N. Sra. Paz-San Juan Aznalfarache"],
+  "csTodos": [
+    "411110 · Coria Blas Infante-Virgen Estrella",
+    "411080 · Marques Paradas-Sevilla",
+    "410850 · Montequinto-Dos Hermanas",
+    "410690 · San Luis-Sevilla",
+    "410720 · San Pablo-Sevilla",
+    "411160 · Amante Laffon-Sevilla",
+    "411180 · Cachorro-Sevilla",
+    "410990 · Palmeritas-Sevilla",
+    "411000 · Greco-Sevilla",
+    "410430 · San Lúcar Mayor",
+    "411060 · Clara Campoamor-Mairena Aljarafe",
+    "410090 · Castilleja Cuesta",
+    "410400 · Pilas",
+    "410750 · Bormujos-Tomares",
+    "410380 · Olivares",
+    "410420 · N. Sra. Paz-San Juan Aznalfarache"
+  ],
+  "impacto": {
+    "confianza": { "neg": 13, "neu": 25, "pos": 62 },
+    "inicio": { "neg": 0, "neu": 25, "pos": 75 },
+    "sinConfirmacion": { "neg": 25, "neu": 25, "pos": 50 }
+  },
+  "seguridad": {
+    "adaptado": { "neg": 25, "neu": 25, "pos": 50 },
+    "alineado": { "neg": 0, "neu": 25, "pos": 75 },
+    "circuito": { "neg": 25, "neu": 25, "pos": 50 }
+  },
+  "resultado": { "neg": 0, "neu": 25, "pos": 75 },
+  "barreras": ["Mi jefe", "Yo"],
+  "necesidades": ["Libertad", "Ganas"]
+}
