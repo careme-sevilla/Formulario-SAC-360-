@@ -1,0 +1,36 @@
+{
+  "nombre": "Antonio Vico",
+  "respuestas": 2,
+  "tiempo": "0:56",
+  "especialidad": "Atención Primaria",
+  "cuentas": ["Virgen del Rocío", "Macarena", "Valme", "Osuna", "Écija"],
+  "csActivos": ["411170 · Amate-Sevilla", "410220 · Saucejo"],
+  "csTodos": [
+    "411170 · Amate-Sevilla",
+    "410900 · Torreblanca-Sevilla",
+    "411190 · Plata-Sevilla",
+    "410580 · Candelaria-Sevilla",
+    "410910 · Viso Alcor",
+    "410230 · Estepa",
+    "410330 · Ricardo Martínez Sánchez-Marchena",
+    "410220 · Saucejo",
+    "410410 · Puebla Cazalla",
+    "410390 · Osuna",
+    "411140 · Almorron-Écija",
+    "411260 · Virgen Valle-Écija",
+    "410260 · Luisiana"
+  ],
+  "impacto": {
+    "confianza": { "neg": 0, "neu": 25, "pos": 75 },
+    "inicio": { "neg": 0, "neu": 0, "pos": 100 },
+    "sinConfirmacion": { "neg": 0, "neu": 25, "pos": 75 }
+  },
+  "seguridad": {
+    "adaptado": { "neg": 0, "neu": 0, "pos": 100 },
+    "alineado": { "neg": 0, "neu": 50, "pos": 50 },
+    "circuito": { "neg": 0, "neu": 50, "pos": 50 }
+  },
+  "resultado": { "neg": 0, "neu": 0, "pos": 100 },
+  "barreras": ["Tiempo", "Inercia"],
+  "necesidades": ["Apoyo", "Revisión específica en las renovaciones"]
+}
