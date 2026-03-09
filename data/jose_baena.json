@@ -1,0 +1,33 @@
+{
+  "nombre": "José M. Baena",
+  "respuestas": 1,
+  "tiempo": "0:51",
+  "especialidad": "Atención Primaria",
+  "cuentas": ["Virgen del Rocío"],
+  "csActivos": ["410060 · Camas"],
+  "csTodos": [
+    "410060 · Camas",
+    "411100 · Virgen Africa-Sevilla",
+    "410510 · Porvenir-Sevilla",
+    "411050 · Mallen-Sevilla",
+    "411010 · Bellavista-Sevilla",
+    "411230 · Polígono Sur-Sevilla",
+    "410980 · Juncal-Sevilla",
+    "411020 · Bermejales-Sevilla",
+    "410470 · Cerro Aguila-Sevilla",
+    "411200 · Inmaculada Vieira Fuente-Sevilla"
+  ],
+  "impacto": {
+    "confianza": { "neg": 0, "neu": 50, "pos": 50 },
+    "inicio": { "neg": 0, "neu": 0, "pos": 100 },
+    "sinConfirmacion": { "neg": 0, "neu": 50, "pos": 50 }
+  },
+  "seguridad": {
+    "adaptado": { "neg": 0, "neu": 0, "pos": 100 },
+    "alineado": { "neg": 0, "neu": 0, "pos": 100 },
+    "circuito": { "neg": 0, "neu": 50, "pos": 50 }
+  },
+  "resultado": { "neg": 0, "neu": 0, "pos": 100 },
+  "barreras": ["Inercia"],
+  "necesidades": ["Soporte"]
+}
